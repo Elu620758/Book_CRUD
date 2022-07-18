@@ -94,7 +94,7 @@ class App extends Component {
     return (
       <div className="App container">
 
-      <h1>Books App</h1>
+      <h1>Elumalai_Books App</h1>
 
       <Button className="my-3" color="primary" onClick={this.toggleNewBookModal.bind(this)}>Add Book</Button>
 
